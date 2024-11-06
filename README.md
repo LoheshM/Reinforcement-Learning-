@@ -1,7 +1,3 @@
-Certainly! Below is a detailed **README** content that you can include in your repository:
-
----
-
 # Multi-Armed Bandit & MDP-Based Pathfinding Agent
 
 This repository contains two key projects: a **Multi-Armed Bandit (MAB)** solution for article recommendation and an **MDP-based pathfinding agent** for navigating a grid using Monte Carlo and Value Iteration methods. The aim of these projects is to demonstrate reinforcement learning techniques and their application in real-world-like problems.
