@@ -93,24 +93,3 @@ This section involves solving a **pathfinding problem** on a 100x100 grid, where
 
 ---
 
-## How to Use
-
-### Multi-Armed Bandit for Article Recommendation
-
-1. Clone this repository to your local machine.
-2. Run the `multi_armed_bandit.py` script to start the simulation.
-   - You can modify the epsilon value or the configuration for Thompson Sampling within the script.
-
-### MDP-Based Pathfinding Agent
-
-1. Clone this repository to your local machine.
-2. Navigate to the `pathfinding_agent.py` file.
-3. Run the script to train the agent using Monte Carlo or Value Iteration.
-   - The grid will be randomly generated, and the agent will start from a random point and attempt to find the goal.
-
-### Model Saving and Loading
-
-- After training, the learned Q-values and policies are saved in `.pkl` files.
-- You can load the model at any time to evaluate the learned policy without retraining.
-
----
